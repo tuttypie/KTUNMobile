@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KTUN Mobile</string>
+    <string name="giris">Giriş</string>
+    <string name="sifre">Şifre</string>
+    <string name="o_no">Öğrenci No</string>
+    <string name="o_no_h">Öğrenci numaramı hatırla.</string>
+    <string name="ktunimage">ktunimage</string>
+    <string name="title_activity_dashboard"></string>
+    <string name="title_home"></string>
+    <string name="title_notifications"></string>
+
+</resources>
